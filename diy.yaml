@@ -1,0 +1,24 @@
+# clash客户端运行端口
+port: 7890
+# socks-port: 7891
+allow-lan: false
+mode: Rule
+log-level: info
+# external-controller: :9090
+
+# 代理节点，需要指定服务地址（IP或者域名）节点类型，加密算法和密码
+proxies:
+  - { name: 29, server: 86.106.157.246, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd }
+
+proxy-groups:
+  # url-test select which proxy will be used by benchmarking speed to a URL.
+  - name: "auto"
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    proxies:
+      - 29
+    interval: 300
+
+rules:
+  - DOMAIN-SUFFIX,google.com,auto
+  - MATCH,auto
