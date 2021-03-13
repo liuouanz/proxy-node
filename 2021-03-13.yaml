@@ -45,8 +45,6 @@ proxies:
   - {name: 41, server: 138.197.174.245, port: 56443, type: ss, cipher: chacha20-ietf-poly1305, password: 5N9wgv89gum9}
   - {name: 42, server: 128.199.254.135, port: 40561, type: ss, cipher: chacha20-ietf-poly1305, password: rUJdqlALrsNW}
 proxy-groups:
-  - name: 🔰 节点选择
-proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
