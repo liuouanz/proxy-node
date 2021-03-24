@@ -6,24 +6,38 @@
 
 
 【使用方法】
+
 - 1、下载clash客户端
 
     mac版本：https://github.com/yichengchen/clashX/releases/download/1.40.0/ClashX.dmg
+
+    mac版本clash使用配置教程：https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ
+
+    ios版本小火箭IPA文件下载地址：https://wwe.lanzous.com/inc52n37o2j
+  
+    ios版本小火箭使用配套教程：https://youtu.be/DGz271mXR9s
   
     windows版本：https://github.com/Fndroid/clash_for_windows_pkg/releases
+
+    android版本：https://github.com/Kr328/ClashForAndroid/releases
+  
+    android版本clash使用配套教程：https://youtu.be/LQzezmEyH80
 
 
 - 2、下载配置文件到本地
 - 3、打开clash客户端，选择【open local config folder】
-    ![img.png](img.png)
+    ![./asset/img.png](asset/img.png)
   
 - 4、把下载的配置文件放到配置的文件中
-    ![img_1.png](img_1.png)
+    ![./asset/img_1.png](asset/img_1.png)
   
-- 5、打开clash客户端，设置为系统代理，【set as system proxy】
-    ![img_2.png](img_2.png)
+- 5、打开clash客户端，选择【config】->选择需要生效的配置文件
+    ![./asset/img3.png](asset/img3.png)
   
-- 6、打开地址：https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ ，验证科学上网
+- 6、打开clash客户端，设置为系统代理，【set as system proxy】
+    ![./asset/img_2.png](asset/img_2.png)
+  
+- 7、打开地址：https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ ，验证科学上网
   
 
 【自定义订阅链接】
