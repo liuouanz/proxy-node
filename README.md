@@ -42,7 +42,7 @@
     
   ![添加订阅链接](./asset/add.png)
   
-  ![订阅链接添加成功](/Users/why/IdeaProjects/source/proxy-node/asset/upadte.png)
+  ![订阅链接添加成功](./asset/upadte.png)
   
 - 5、打开clash客户端，选择【config】可以查看当前生效的配置文件，要是没有被勾选的配置，可以勾选指定的配置
     ![查看当前生效配置](./asset/cat-use.png)
