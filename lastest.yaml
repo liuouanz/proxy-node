@@ -5,27 +5,12 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: yuanxiaozha-1, server: 89.238.135.37, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: yuanxiaozha-2, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-3, server: 138.199.40.169, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: yuanxiaozha-4, server: 138.199.40.169, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: yuanxiaozha-5, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
-  - {name: yuanxiaozha-6, server: 143.244.42.86, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-7, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-8, server: 138.199.40.169, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: yuanxiaozha-9, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-10, server: 68.71.244.208, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-11, server: 62.212.239.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-12, server: 195.206.169.203, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-13, server: 188.92.78.145, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: yuanxiaozha-14, server: 185.2.100.168, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: yuanxiaozha-15, server: 139.28.176.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: yuanxiaozha-16, server: 143.244.56.230, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: yuanxiaozha-17, server: 104.200.131.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: yuanxiaozha-18, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: yuanxiaozha-19, server: klhkne.2sx.xyz, port: 20086, type: vmess, uuid: fda92585-41b0-43ab-9aec-f4c9db802f1c, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: klhkne.2sx.xyz}}
-  - {name: yuanxiaozha-20, server: klhknb.2sx.xyz, port: 20086, type: vmess, uuid: fda92585-41b0-43ab-9aec-f4c9db802f1c, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: klhknb.2sx.xyz}}
-  - {name: yuanxiaozha-21, server: a5009ddcec736d4bf.awsglobalaccelerator.com, port: 20086, type: vmess, uuid: fda92585-41b0-43ab-9aec-f4c9db802f1c, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /Pinmk4Nk, ws-headers: {Host: baidu.com}}
+  - {name: yuanxiaozha-1, server: 62.212.239.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: yuanxiaozha-2, server: 154.127.50.138, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: yuanxiaozha-3, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: yuanxiaozha-4, server: 62.212.239.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: yuanxiaozha-5, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: yuanxiaozha-6, server: 104.200.131.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -38,21 +23,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -65,21 +35,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -92,21 +47,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: 📲 电报信息
     type: select
     proxies:
@@ -118,21 +58,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -144,21 +69,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -170,21 +80,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -197,21 +92,6 @@ proxy-groups:
       - yuanxiaozha-4
       - yuanxiaozha-5
       - yuanxiaozha-6
-      - yuanxiaozha-7
-      - yuanxiaozha-8
-      - yuanxiaozha-9
-      - yuanxiaozha-10
-      - yuanxiaozha-11
-      - yuanxiaozha-12
-      - yuanxiaozha-13
-      - yuanxiaozha-14
-      - yuanxiaozha-15
-      - yuanxiaozha-16
-      - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
   - name: 🎯 全球直连
     type: select
     proxies:
