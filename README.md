@@ -19,7 +19,7 @@
 
     mac版本clash使用配置教程：https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ
 
-    ios版本小火箭IPA文件下载地址：https://wwe.lanzous.com/inc52n37o2j
+    ios版本小火箭IPA文件下载地址：https://wwa.lanzoui.com/iKTejn5vvqb
   
     ios版本小火箭使用配套教程：https://youtu.be/DGz271mXR9s
   
@@ -39,7 +39,7 @@
     ![./asset/manage.png](/Users/why/IdeaProjects/source/proxy-node/asset/manage.png)
   
 - 4、点击【add】，添加订阅链接
-    
+  
   ![添加订阅链接](./asset/add.png)
   
   ![订阅链接添加成功](./asset/upadte.png)
