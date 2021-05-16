@@ -10,25 +10,18 @@ proxies:
   - {name: yuanxiaozha-3, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: yuanxiaozha-4, server: 62.212.239.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: yuanxiaozha-5, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: yuanxiaozha-6, server: 104.200.131.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: yuanxiaozha-7, server: 18.183.254.243, port: 667, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /d2x25dd, ws-headers: {Host: baidu.com}}
-  - {name: yuanxiaozha-8, server: 18.183.228.17, port: 666, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /qianting.m3u8, ws-headers: {Host: baidu.com}}
-  - {name: yuanxiaozha-9, server: 18.183.228.17, port: 667, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /qianting.m3u8, ws-headers: {Host: baidu.com}}
-  - {name: yuanxiaozha-10, server: cslt.mfjlb.top, port: 55123, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: cslt.mfjlb.top}}
-  - {name: yuanxiaozha-11, server: gy.nkeo.top, port: 10207, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-12, server: gy.nkeo.top, port: 10188, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-13, server: gy.nkeo.top, port: 10201, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-14, server: gy.nkeo.top, port: 10203, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-15, server: gy.nkeo.top, port: 10204, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-16, server: cslt.mfjlb.top, port: 55001, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: cslt.mfjlb.top}}
-  - {name: yuanxiaozha-17, server: cslt.mfjlb.top, port: 55055, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: cslt.mfjlb.top}}
-  - {name: yuanxiaozha-18, server: cslt.mfjlb.top, port: 55088, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: cslt.mfjlb.top}}
-  - {name: yuanxiaozha-19, server: cslt.mfjlb.top, port: 55099, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: cslt.mfjlb.top}}
-  - {name: yuanxiaozha-20, server: gy.nkeo.top, port: 10112, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-21, server: d1.baicaijs.space, port: 23000, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: d1.baicaijs.space}}
-  - {name: yuanxiaozha-22, server: gy.nkeo.top, port: 10113, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-  - {name: yuanxiaozha-23, server: gy.nkeo.top, port: 10121, type: vmess, uuid: 0f7f3f58-62b6-334a-b312-c33c08ab290b, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: gy.nkeo.top}}
-
+  - {name: yuanxiaozha-6, server: 104.200.131.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}  
+  - {name: yuanxiaozha-7, server: 15.237.126.197, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: yuanxiaozha-8, server: 15.237.126.197, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: yuanxiaozha-9, server: 18.185.94.137, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: yuanxiaozha-10, server: 15.206.67.95, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: yuanxiaozha-11, server: 104.200.131.245, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: yuanxiaozha-12, server: 185.108.105.243, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: yuanxiaozha-13, server: 138.199.42.151, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: yuanxiaozha-14, server: 212.102.35.214, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: yuanxiaozha-15, server: 138.199.16.152, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: yuanxiaozha-16, server: 91.90.121.163, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: yuanxiaozha-17, server: 95.85.90.181, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -52,12 +45,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -81,12 +68,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -110,12 +91,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: 📲 电报信息
     type: select
     proxies:
@@ -138,12 +113,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -166,12 +135,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -194,12 +157,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -223,12 +180,6 @@ proxy-groups:
       - yuanxiaozha-15
       - yuanxiaozha-16
       - yuanxiaozha-17
-      - yuanxiaozha-18
-      - yuanxiaozha-19
-      - yuanxiaozha-20
-      - yuanxiaozha-21
-      - yuanxiaozha-22
-      - yuanxiaozha-23
   - name: 🎯 全球直连
     type: select
     proxies:
