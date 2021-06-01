@@ -11,9 +11,9 @@ proxies:
   - {name: yuanxiaozha-4, server: 40.83.94.130, port: 80, type: vmess, uuid: 667a6afd-c279-3b56-9701-29337f3ec627, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ny, ws-headers: {Host: 40.83.94.130}}
   - {name: yuanxiaozha-5, server: 13.75.111.138, port: 80, type: vmess, uuid: 667a6afd-c279-3b56-9701-29337f3ec627, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ny, ws-headers: {Host: 13.75.111.138}}
   - {name: yuanxiaozha-6, server: v2.mooncloud.top, port: 8080, type: vmess, uuid: e81fcead-d109-4c25-a417-e27518b4be89, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: v2.mooncloud.top}}
-  - {name: yuanxiaozha-7, server: 15.237.126.197, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: yuanxiaozha-8, server: 15.237.126.197, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: yuanxiaozha-9, server: 18.185.94.137, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: yuanxiaozha-7, server: 13.125.249.11, port: 21534, type: vmess, uuid: 0ef8a9d9-af9b-484f-d144-f432baf6964a, alterId: 64, cipher: auto, tls: false}
+  - {name: yuanxiaozha-8, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
+  - {name: yuanxiaozha-9, server: 54.169.101.136, port: 48623, type: vmess, uuid: 404b831b-ff94-4793-b433-34c5b48dc73e, alterId: 64, cipher: auto, tls: false}
   - {name: yuanxiaozha-10, server: 15.206.67.95, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: yuanxiaozha-11, server: 104.200.131.245, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: yuanxiaozha-12, server: 185.108.105.243, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
